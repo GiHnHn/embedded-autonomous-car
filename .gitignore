@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+*.pyc
+*.h5
+*.pb
+*.pbtxt
+*.tflite
+models/
+data/
+.env
+*.log
